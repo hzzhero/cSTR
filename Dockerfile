@@ -1,4 +1,4 @@
-FROM registry.ai.cestc/kubeflow/centos:7.9.2009.1
+FROM centos:7.9.2009
 
 MAINTAINER hezhizhen@cestc.cn
 
