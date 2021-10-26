@@ -11,4 +11,4 @@ RUN gitbook install
 
 WORKDIR /home/cSTR_gitbook
 
-CMD ["gitbook", "serve"]
+CMD ["cd", "/home/cSTR_gitbook"]
