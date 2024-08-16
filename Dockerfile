@@ -1,6 +1,6 @@
 FROM centos:7.9.2009
 
-MAINTAINER hezhizhen@cestc.cn
+MAINTAINER hezhizhen@123.cn
 
 COPY cSTR_gitbook  /home/cSTR_gitbook
 
